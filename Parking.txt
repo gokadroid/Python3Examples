@@ -1,0 +1,44 @@
+which are the top five cities with CV?
+|-> this is our market
+
+which are the top five brands of cars with CV?
+|-> this is our market
+
+which 
+Which are the top 5 cities with SVL?
+
+Car Make
+Model
+Year
+Alarm On
+How many parts can be resold
+ZipCode
+Time
+Notority of ZipCode
+How many cars stolen in last week
+Last month
+Last Quarter
+Last year
+Notority of neighbour hood zip codes - how many arrests in negibouring zip codes ofr burglary
+Front is facing an obstacle or not - 
+No parking zone
+
+
+Insurance
+
+Valuables in cars
+Do you have spare keys in the car
+
+
+
+
+Honda Accord (1997)
+Honda Civic (1998)
+Ford Pickup (full size) (2006)
+Chevrolet Pickup (full size) (2004)
+Toyota Camry (2016)
+Nissan Altima (2015)
+Dodge Pickup (full size) (2001)
+Toyota Corolla (2015)
+Chevrolet Impala (2008)
+Jeep Cherokee/Grand Cherokee (2000)
